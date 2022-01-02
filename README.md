@@ -1,0 +1,2 @@
+# SimpleLibrarymanage
+练习对数据库的增删改查和三层架构
